@@ -4,14 +4,14 @@
 
 export const environment = {
   production: false,
-  firebase: {
-    apiKey: "AIzaSyC9hxCXLfYq0aSvRT6zUR4HHd-DxW1GoS8",
-    authDomain: "paymentuniguairaca.firebaseapp.com",
-    projectId: "paymentuniguairaca",
-    storageBucket: "paymentuniguairaca.appspot.com",
-    messagingSenderId: "244832799814",
-    appId: "1:244832799814:web:cbcbfee9751b8d20724e47",
-    measurementId: "G-TH5EY18486"
+  firebase : {
+    apiKey: "AIzaSyAkwuwMZQ5TERnbirlMoMK7DqMf47EMnsY",
+  authDomain: "guairaca-financas-df6fc.firebaseapp.com",
+  projectId: "guairaca-financas-df6fc",
+  storageBucket: "guairaca-financas-df6fc.appspot.com",
+  messagingSenderId: "896611576132",
+  appId: "1:896611576132:web:1d2c59ab8a6ec7e4094f11",
+  measurementId: "G-7SNYNZH63S"
   }
 };
 
